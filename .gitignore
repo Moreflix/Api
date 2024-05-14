@@ -2,5 +2,4 @@ env
 auth/
 core/settings.py
 manage.py
-series/application/scripting/scrapping.py
 db.sqlite3
